@@ -1,0 +1,15 @@
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\bin\Debug\net6.0\Task_of_fact.exe
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\bin\Debug\net6.0\Task_of_fact.deps.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\bin\Debug\net6.0\Task_of_fact.runtimeconfig.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\bin\Debug\net6.0\Task_of_fact.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\bin\Debug\net6.0\Task_of_fact.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.csproj.AssemblyReference.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.AssemblyInfoInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.AssemblyInfo.cs
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.csproj.CoreCompileInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\refint\Task_of_fact.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\Task_of_fact.genruntimeconfig.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_fact\obj\Debug\net6.0\ref\Task_of_fact.dll
