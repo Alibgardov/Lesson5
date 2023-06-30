@@ -1,0 +1,15 @@
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\bin\Debug\net6.0\Task_of_Hand.exe
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\bin\Debug\net6.0\Task_of_Hand.deps.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\bin\Debug\net6.0\Task_of_Hand.runtimeconfig.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\bin\Debug\net6.0\Task_of_Hand.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\bin\Debug\net6.0\Task_of_Hand.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.csproj.AssemblyReference.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.AssemblyInfoInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.AssemblyInfo.cs
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.csproj.CoreCompileInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\refint\Task_of_Hand.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\Task_of_Hand.genruntimeconfig.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Hand\obj\Debug\net6.0\ref\Task_of_Hand.dll
