@@ -1,0 +1,15 @@
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.csproj.AssemblyReference.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.AssemblyInfoInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.AssemblyInfo.cs
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.csproj.CoreCompileInputs.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\bin\Debug\net6.0\Task_of_Fibonacchi.exe
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\bin\Debug\net6.0\Task_of_Fibonacchi.deps.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\bin\Debug\net6.0\Task_of_Fibonacchi.runtimeconfig.json
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\bin\Debug\net6.0\Task_of_Fibonacchi.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\bin\Debug\net6.0\Task_of_Fibonacchi.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\refint\Task_of_Fibonacchi.dll
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.pdb
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\Task_of_Fibonacchi.genruntimeconfig.cache
+C:\Users\colizeum\Desktop\C#Lessons\Task_of_Fibonacchi\obj\Debug\net6.0\ref\Task_of_Fibonacchi.dll
